@@ -13,7 +13,7 @@ const HomePage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Spitfire Seymour – Offical Home Page" />
+                <SEO title="Spitfire Seymour – Official Home Page" />
                 <div className="wrapper home-default-wrapper">
                     <Header />
                     <div className="main-content">
