@@ -1,0 +1,144 @@
+[
+    {
+        "id": "about me",
+        "title": "The Battle of Britain",
+        "excerpt": "<p>It is the 100th anniversary of the Battle of Britain, people came from all over the world to give their yesterday so we could have our tomorrow. In particular, an engineer by the name of Edwin Seymour Wilson a Jamaican national. Pilots Alan Deere a New Zealand national. Pierre Closterman a French national, George Beurling a Canadian National, Don Blakslee an American national and Johnnie Johnson a British national. These pilots became aces in the Battle of Britain at Biggin Hill Airport.</p>",
+        "id1": "about mj772",
+        "title2": "Spitfire MJ772 History",
+        "excerpt2": "<p>It is the 100th anniversary of the Battle of Britain, people came from all over the world to give their yesterday so we could have our tomorrow. In particular, an engineer by the name of Edwin Seymour Wilson a Jamaican national. Pilots Alan Deere a New Zealand national. Pierre Closterman a French national, George Beurling a Canadian National, Don Blakslee an American national and Johnnie Johnson a British national. These pilots became aces in the Battle of Britain at Biggin Hill Airport.</p>"
+    },
+    {
+        "id": "about service",
+        "title": "Our Services",
+        "pagelinkText": [
+            "Branding & Strategy",
+            "Web Design & Development",
+            "Packaging Design",
+            "Video & Animation",
+            "Marketing, SEO & Social Media"
+        ]
+    },
+    {
+        "id": "team",
+        "title": "The pilots who flew Spitfire MJ772",
+        "team": [
+            {
+                "id": 1,
+                "classOption": "team-member",
+                "image": "./img/team/01.jpg",
+                "name": "Joe Biden",
+                "designation": "George Beurling"
+            },        
+            {
+                "id": 2,
+                "classOption": "team-member",
+                "image": "./img/team/02.jpg",
+                "name": "Alex Tuntuni",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 3,
+                "classOption": "team-member",
+                "image": "./img/team/03.jpg",
+                "name": "Blanche Fields",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 4,
+                "classOption": "team-member",
+                "image": "./img/team/04.jpg",
+                "name": "Alex Tuntuni",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 5,
+                "classOption": "team-member",
+                "image": "./img/team/05.jpg",
+                "name": "Blanche Fields",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 6,
+                "classOption": "team-member",
+                "image": "./img/team/06.jpg",
+                "name": "Alex Tuntuni",
+                "designation": "CEO Founder"
+            }
+        
+        ]
+    },
+    {
+        "id": "blockquote",
+        "excerpt": "In shared sacrifice we remember those who gave their yesterday so we could have  our tomorrow.",
+        "name": "David Wilson",
+        "designation": "Founder of Spitfire Seymour"
+    },
+    {
+        "id": "about gallery",
+        "gallery": {
+            "imageOne": "./img/photos/g-01.jpg",
+            "imageTwo": "./img/photos/g-02.jpg",
+            "imageThree": "./img/photos/g-03.jpg"
+        }
+    },
+    {
+        "id": "Awards",
+        "title": "Awards Achieved",
+        "yearOne": "2017",
+        "yearTwo": "2016",
+        "awardItem": [
+            {
+                "id": 1,
+                "cate": "500px",
+                "title": "Photo Of The Years for <span>Emila</span>"
+            },
+            {
+                "id": 2,
+                "cate": "Unsplash",
+                "title": "Honorable Mention for <span>Listofy Stream Music App</span>"
+            },
+            {
+                "id": 3,
+                "cate": "Pexel",
+                "title": "Gold In Digital Craft for <span>Biford</span>"
+            },
+            {
+                "id": 4,
+                "cate": "500px",
+                "title": "Coporate Social Responsiblity for <span>ABC</span>"
+            },
+            {
+                "id": 5,
+                "cate": "Shutterstocks",
+                "title": "Best Showcase for <span>Gym App</span>"
+            }
+        ]
+    },
+    {
+        "id": "Brand",
+        "title": "Our Clients",
+        "excerpt": "Alexis has been honored to partner up with these clients.",
+        "brand": [
+            {
+                "id": 1,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 2,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 3,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 4,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 5,
+                "image": "./img/brand-logo/01.png"
+            }
+        ]
+    }
+]
