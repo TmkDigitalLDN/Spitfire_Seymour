@@ -34,35 +34,35 @@
                 "classOption": "team-member",
                 "image": "./img/team/02.jpg",
                 "name": "Alex Tuntuni",
-                "designation": "CEO Founder"
+                "designation": "Johnnie Johnson"
             },
             {
                 "id": 3,
                 "classOption": "team-member",
                 "image": "./img/team/03.jpg",
                 "name": "Blanche Fields",
-                "designation": "CEO Founder"
+                "designation": "Don Blakeslee"
             },
             {
                 "id": 4,
                 "classOption": "team-member",
                 "image": "./img/team/04.jpg",
                 "name": "Alex Tuntuni",
-                "designation": "CEO Founder"
+                "designation": "Alan Deere"
             },
             {
                 "id": 5,
                 "classOption": "team-member",
                 "image": "./img/team/05.jpg",
                 "name": "Blanche Fields",
-                "designation": "CEO Founder"
+                "designation": "Edwin Seymour Wilson"
             },
             {
                 "id": 6,
                 "classOption": "team-member",
                 "image": "./img/team/06.jpg",
                 "name": "Alex Tuntuni",
-                "designation": "CEO Founder"
+                "designation": "Pierre Closterman"
             }
         
         ]
